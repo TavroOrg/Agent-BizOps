@@ -17,6 +17,10 @@ The following individuals are acknowledged for their significant contributions t
     </thead>
     <tbody>
         <tr>
+            <td>Paul Aasmundstad</td>
+            <td>Ryan Specialty</td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/pkumar290" target="_blank">Prasanna Kumar Akiri</td>
             <td>Tavro AI</td>
         </tr>
@@ -36,13 +40,24 @@ The following individuals are acknowledged for their significant contributions t
             <td>Appal Badi</td>
             <td>Independent Contributor</td>
         </tr>
+        <tr>
+            <td>Koushik Barhale</td>
+            <td>America Petroleum Institute</td>
         </tr>
         <tr>
             <td>Val Calvo</td>
             <td>AgFirst Bank</td>
         </tr>
         <tr>
+            <td>Plejo Chacko</td>
+            <td>Interac</td>
+        </tr>
+        <tr>
             <td>Madhuri Challapalli</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
+            <td>Shayn Chaudhry</td>
             <td>Independent Contributor</td>
         </tr>
         <tr>
@@ -50,12 +65,24 @@ The following individuals are acknowledged for their significant contributions t
             <td>Collibra</td>
         </tr>
         <tr>
+            <td>Stacy A. Clark</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
             <td>Joe DeLuca</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
+            <td>Shama Deshmukh</td>
             <td>Independent Contributor</td>
         </tr>
         <tr>
             <td>Karan Dhawal</td>
             <td>ZS Associates</td>
+        </tr>
+        <tr>
+            <td>Ray Diaz</td>
+            <td>Independent Contributor</td>
         </tr>
         <tr>
             <td>Yoshita Dhillon</td>
@@ -64,6 +91,10 @@ The following individuals are acknowledged for their significant contributions t
         <tr>
             <td>Tony DiPerna</td>
             <td>BankUnited</td>
+        </tr>
+        <tr>
+            <td>Naga Dodda</td>
+            <td>NexSolv</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Mihir-Tavro-18" target="_blank">Mihir Dudhatra</td>
@@ -82,6 +113,18 @@ The following individuals are acknowledged for their significant contributions t
             <td>Natixis Investment Advisors</td>
         </tr>
         <tr>
+            <td>Barbara Forth</td>
+            <td>College of William & Mary</td>
+        </tr>
+        <tr>
+            <td>Russ Frame</td>
+            <td>RBC Capital Markets</td>
+        </tr>
+        <tr>
+            <td>Tom Freisen</td>
+            <td>Algonquin College</td>
+        </tr>
+        <tr>
             <td>Forrest Gilman</td>
             <td>Independent Contributor</td>
         </tr>
@@ -94,6 +137,10 @@ The following individuals are acknowledged for their significant contributions t
             <td>Hindustan Petroleum</td>
         </tr>
         <tr>
+            <td>Andreas Hake</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
             <td>Shawn Harbaugh</td>
             <td>Citizens & Northern Bank</td>
         </tr>
@@ -102,12 +149,20 @@ The following individuals are acknowledged for their significant contributions t
             <td>Boston College</td>
         </tr>
         <tr>
+            <td>Vijay Jakka</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
             <td>Mike Jennings</td>
             <td>Independent Contributor (Formerly Walgreens)</td>
         </tr>
         <tr>
             <td>Peter Kapur</td>
             <td>CarMax</td>
+        </tr>
+        <tr>
+            <td>Tahir Khan</td>
+            <td>Independent Contributor</td>
         </tr>
         <tr>
             <td>Michael Koegler</td>
@@ -122,6 +177,18 @@ The following individuals are acknowledged for their significant contributions t
             <td>Tavro AI</td>
         </tr>
         <tr>
+            <td>Susheel Kumar</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
+            <td>Albert Lalaj</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
+            <td>Ron Layne</td>
+            <td>George Washington University</td>
+        </tr>
+        <tr>
             <td>Mmatseleng Lefike</td>
             <td>Sanlam South Africa</td>
         </tr>
@@ -130,11 +197,39 @@ The following individuals are acknowledged for their significant contributions t
             <td>Independent Contributor</td>
         </tr>
         <tr>
+            <td>Terri Mikol</td>
+            <td>Better Data is Everyones Job LLC</td>
+        </tr>
+        <tr>
+            <td>Adhir Mishra</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
             <td>Gokula Mishra</td>
             <td>OmniProAI (Formerly McDonald’s)</td>
         </tr>
         <tr>
+            <td>Mahmood Mohammad</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
+            <td>Salah Mokhayesh</td>
+            <td>Pellera Technologies</td>
+        </tr>
+        <tr>
             <td>Fahad Moosa</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
+            <td>Shane Morris</td>
+            <td>Nationwide</td>
+        </tr>
+        <tr>
+            <td>Mark Nance</td>
+            <td>American Fidelity</td>
+        </tr>
+        <tr>
+            <td>Stephen Nosal</td>
             <td>Independent Contributor</td>
         </tr>
         <tr>
@@ -142,24 +237,48 @@ The following individuals are acknowledged for their significant contributions t
             <td>Tavro AI</td>
         </tr>
         <tr>
+            <td>Robert Pattacini</td>
+            <td>BRP</td>
+        </tr>
+        <tr>
             <td>Arpan Patel</td>
             <td>Delta Community Credit Union</td>
+        </tr>
+        <tr>
+            <td>Richard Patterson</td>
+            <td>U.S. Department of State</td>
+        </tr>
+        <tr>
+            <td>Rich Pluschau</td>
+            <td>Falcon Risk Services</td>
         </tr>
         <tr>
             <td>Nick Raad</td>
             <td>Independent Contributor</td>
         </tr>
         <tr>
-            <td>Su Rayburn</td>
-            <td>Delta Community Credit Union</td>
+            <td>Azhar Rahman</td>
+            <td>State of North Carolina Department of Information Technology</td>
         </tr>
         <tr>
             <td>Shyam Rasaily</td>
             <td>T. Rowe Price</td>
         </tr>
         <tr>
+            <td>Su Rayburn</td>
+            <td>Delta Community Credit Union</td>
+        </tr>
+        <tr>
             <td>Phani Rayudu</td>
             <td>Walgreens</td>
+        </tr>
+        <tr>
+            <td>Philip Reed</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
+            <td>Alissa Schneider</td>
+            <td>Sinclair</td>
         </tr>
         <tr>
             <td><a href="https://github.com/kdshah2205" target="_blank">Khushboo Shah</td>
@@ -174,12 +293,36 @@ The following individuals are acknowledged for their significant contributions t
             <td>Independent Contributor</td>
         </tr>
         <tr>
+            <td>Ash Shrivasta</td>
+            <td>Red Pico</td>
+        </tr>
+        <tr>
+            <td>Tejbir Singh</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
             <td>Marti Smith</td>
+            <td>Independent Contributor</td>
+        </tr>
+        <tr>
+            <td>Liz Soares</td>
+            <td>Tavro AI</td>
+        </tr>
+        <tr>
+            <td>Deep Sogani</td>
             <td>Independent Contributor</td>
         </tr>
         <tr>
             <td>Bryan Swann</td>
             <td>Independent Contributor</td>
+        </tr>
+        <tr>
+            <td>Anand Thatai</td>
+            <td>Datsura</td>
+        </tr>
+        <tr>
+            <td>Kandarp Vashi</td>
+            <td>Endeavour Group</td>
         </tr>
         <tr>
             <td>Liv Watson</td>
