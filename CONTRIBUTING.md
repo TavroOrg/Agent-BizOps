@@ -25,7 +25,7 @@ The following individuals are acknowledged for their significant contributions t
             <td>Tavro AI</td>
         </tr>
         <tr>
-            <td><a href="https://www.linkedin.com/in/rajarajan-arumugam/"target="_blank">Raj Arumugam</a></td>
+            <td><a href="https://www.linkedin.com/in/rajarajan-arumugam/" target="_blank">Raj Arumugam</a></td>
             <td>Entergy</td>
         </tr>
         <tr>
