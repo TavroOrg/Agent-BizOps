@@ -85,7 +85,7 @@ The following individuals are acknowledged for their significant contributions t
             <td>Independent Contributor</td>
         </tr>
         <tr>
-            <td><a href="https://www.linkedin.com/in/yoshita-dhillon-5751b34/" target="_blank">Yoshita Dhillon</td>
+            <td><a href="https://www.linkedin.com/in/yoshita-dhillon-5751b34/" target="_blank">Yoshita Dhillon</a></td>
             <td>Independent Contributor</td>
         </tr>
         <tr>
@@ -101,7 +101,7 @@ The following individuals are acknowledged for their significant contributions t
             <td>Tavro AI</td>
         </tr>
         <tr>
-            <td><a href="https://www.linkedin.com/in/kjetil-eritzland-b656041/" target="_blank">Kjetil Eritzland</td>
+            <td><a href="https://www.linkedin.com/in/kjetil-eritzland-b656041/" target="_blank">Kjetil Eritzland</a></td>
             <td>Capgemini Norway</td>
         </tr>
         <tr>
