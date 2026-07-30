@@ -2,8 +2,8 @@
 
 ## Leader Authors:
 
-- [Sunil Soares](https://github.com/sunil-tavro) (Tavro AI)
-- [Sanjeev Varma](https://github.com/sanjeev-tavro) (Tavro AI)
+- [Sunil Soares](https://www.linkedin.com/in/sunilsoares/) (Tavro AI)
+- [Sanjeev Varma](https://www.linkedin.com/in/sanjeev-m-varma/) (Tavro AI)
 
 ## Key Contributors and Reviewers
 The following individuals are acknowledged for their significant contributions to the review and development of this document, listed alphabetically by last name:
