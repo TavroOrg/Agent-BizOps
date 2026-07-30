@@ -355,7 +355,7 @@ Here are the types of contributions we are looking for:
 ## Getting Started
 
 Here’s how to get started:
-- Visit the GitHub Repository https://github.com/TavroOrg/Agent-Metadata-Specification
+- Visit the GitHub Repository https://github.com/TavroOrg/Agent-BizOps
 - Join our Slack community https://tavro.slack.com/archives/C0A8HD7EAJX
 - Email us at info@tavro.ai
 
