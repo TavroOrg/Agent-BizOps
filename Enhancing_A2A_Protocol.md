@@ -9,5 +9,4 @@ The Agent Metadata Specification seeks to enhance the Google Agent Card to addre
 
 See examples for an A2A Agent Card implemented for an agent with:
 - [OOTB attributes](https://github.com/TavroOrg/Agent-BizOps/blob/main/industry/Banking/Fraud%20Detective%20-%20Agent%20Card.json) only
-
 - [Extended Authenticated Attributes](https://github.com/TavroOrg/Agent-BizOps/blob/main/industry/Banking/Fraud%20Detective%20-%20Extended%20Authenticated%20Agent%20Card.json), which would require specific authentication
