@@ -356,12 +356,9 @@ Here are the types of contributions we are looking for:
 
 Here’s how to get started:
 - Visit the GitHub Repository https://github.com/TavroOrg/Agent-BizOps
-- Join our Slack community https://tavro.slack.com/archives/C0A8HD7EAJX
 - Email us at info@tavro.ai
 
 If you provided a GitHub username, you may receive an invitation to collaborate shortly.
-
-If you have any questions or ideas, feel free to jump into Slack and introduce yourself.
 
 ## Questions
 

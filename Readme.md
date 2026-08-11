@@ -12,8 +12,6 @@
     &nbsp;·&nbsp;
     <a href="https://www.tavro.ai/contact-us/"><strong> Request Demo</strong></a>
     &nbsp;·&nbsp;
-    <a href="https://tavrocommunity.slack.com/join/shared_invite/zt-3xowwir93-_QZV_jMAtFDkAAfrwY9RWQ#/shared-invite/email"><strong> Slack Community</strong></a>
-    &nbsp;·&nbsp;
     <a href="https://www.youtube.com/@Tavro-AI"><strong> YouTube</strong></a>
     &nbsp;·&nbsp;
     <a href="https://www.tavro.ai/industries/agents/"><strong> Industries</strong></a>
