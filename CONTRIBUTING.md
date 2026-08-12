@@ -360,8 +360,12 @@ Here’s how to get started:
 
 If you provided a GitHub username, you may receive an invitation to collaborate shortly.
 
-## Questions
+<p>
+    If you have any questions or ideas, feel free to
+    <a href="https://www.tavro.ai/contact-us/" target="_blank">contact us</a>.
+</p>
 
+## Questions
 - Open an issue for questions
 - Tag maintainers if needed
 - Check existing documentation first
